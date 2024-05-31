@@ -40,6 +40,7 @@ Replace the placeholders `SYMBOL`, `Token name`, `0x0000000000000000000000000000
 5. Submit your changes as a pull request to the main branch of this repository with the pull request with your branch.
 
 
+
 ## Guidelines for Token Submission
 
 - Please ensure that the token information provided is accurate and up-to-date.
