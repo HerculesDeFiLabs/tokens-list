@@ -6,6 +6,7 @@ Welcome to the Hercules DEX Default Token-List repository! This repository conta
 
 First you need to create a new branch
 
+
 ```bash
 git branch -m "listing/<your token symbol>"
 ```
