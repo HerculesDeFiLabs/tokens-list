@@ -31,6 +31,8 @@ To add a new token to the Hercules DEX token list, please open a pull request to
 }
 ```
 
+
+
 Replace the placeholders `SYMBOL`, `Token name`, `0x0000000000000000000000000000000000000000` and `<your token logo image name>` with the appropriate information for your token.
 
 3. Ensure you provide the correct `chainId`, `symbol`, `name`, `address`, `decimals`, `isWNative`, and `quote` for your token.
