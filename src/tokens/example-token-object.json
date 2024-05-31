@@ -1,0 +1,10 @@
+{
+  "chainId": 1088,
+  "symbol": "SYMBOL",
+  "name": "Token name",
+  "address": "0x0000000000000000000000000000000000000000",
+  "logoURI": "BASE_URL/assets/<your token logo image name>.(svg|png)",
+  "decimals": 0,
+  "isWNative": false,
+  "quote": "native"
+}

@@ -1,0 +1,357 @@
+[
+  {
+    "chainId": 1088,
+    "symbol": "m.USDC",
+    "name": "m.USDC",
+    "address": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
+    "logoURI": "BASE_URL/assets/usdc.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "m.USDT",
+    "name": "m.USDT",
+    "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
+    "logoURI": "BASE_URL/assets/usdt.svg",
+    "decimals": 6,
+    "common": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "WETH",
+    "name": "Wrapped ETH",
+    "address": "0x420000000000000000000000000000000000000a",
+    "logoURI": "BASE_URL/assets/eth.svg",
+    "isWNative": false,
+    "decimals": 18,
+    "common": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "TORCH",
+    "name": "Torch",
+    "address": "0xbB1676046C36BCd2F6fD08d8f60672c7087d9aDF",
+    "logoURI": "BASE_URL/assets/torch.svg",
+    "decimals": 18,
+    "common": true,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "xTORCH",
+    "name": "xTorch",
+    "address": "0xF192897fC39bF766F1011a858dE964457bcA5832",
+    "logoURI": "BASE_URL/assets/xtorch.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "xMETIS",
+    "name": "xMetis",
+    "address": "0xcA042eA7E9AA901C85d5afA5247a79E935dB4996",
+    "logoURI": "BASE_URL/assets/xmetis.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "WMetis",
+    "name": "Wrapped Metis",
+    "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+    "isWNative": true,
+    "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "artMETIS",
+    "name": "Staked Metis Token",
+    "address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
+    "logoURI": "BASE_URL/assets/artMETIS.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "PUMP",
+    "name": "Pumpkin Token",
+    "address": "0x5C7c4E4b949c97EC82Ff93120928d911Bc4E0922",
+    "logoURI": "BASE_URL/assets/pumpkin.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "cPUMP",
+    "name": "Convertible Pumpkin Token",
+    "address": "0x9395DD0b6dE5Ee28F83B3fDFD03e4dB72443C06f",
+    "logoURI": "BASE_URL/assets/pumpkin.svg",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ZKE",
+    "name": "ZKE Token",
+    "address": "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
+    "logoURI": "BASE_URL/assets/zke.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "TETHYS",
+    "name": "TETHYS Token",
+    "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
+    "logoURI": "BASE_URL/assets/tethys.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "MAXIB",
+    "name": "Maxi Barsik Token",
+    "address": "0x60F702A9e3878666E838b0a56fb3DDfC1067C2c0",
+    "logoURI": "BASE_URL/assets/no-logo.png",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "CERUS",
+    "name": "CERUS Token",
+    "address": "0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae",
+    "logoURI": "BASE_URL/assets/cerus.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "JEWEL",
+    "name": "JEWEL Token",
+    "address": "0x17C09cfC96C865CF546d73365Cedb6dC66986963",
+    "logoURI": "BASE_URL/assets/jewel.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ARA",
+    "name": "AraFi Token",
+    "address": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
+    "logoURI": "BASE_URL/assets/arafi.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "HERA",
+    "name": "HERA Token",
+    "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+    "logoURI": "BASE_URL/assets/hera.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "THEA",
+    "name": "THEA Token",
+    "address": "0xDD8F925dDf6fBE4EE81582D4E32F00EDdEb64c2F",
+    "logoURI": "BASE_URL/assets/althea.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "rTHEA",
+    "name": "rTHEA Token",
+    "address": "0x780D578f7C7d72233874155Ee63Aa5a595156237",
+    "logoURI": "BASE_URL/assets/althea.png",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "oMETIS",
+    "name": "oMETIS Token",
+    "address": "0x70f61901658aAFB7aE57dA0C30695cE4417e72b9",
+    "logoURI": "BASE_URL/assets/ometis.svg",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "HUM",
+    "name": "Hummus Token",
+    "address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
+    "logoURI": "BASE_URL/assets/hummus.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "MONKEX",
+    "name": "Monkex Token",
+    "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
+    "logoURI": "BASE_URL/assets/monkex.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ATH",
+    "name": "Athena Token",
+    "address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
+    "logoURI": "BASE_URL/assets/ath.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "gVEC",
+    "name": "Governance VEC Token",
+    "address": "0x1Af9735E9a3658dF9fa51c4D5AEAc89d162C2bc8",
+    "logoURI": "BASE_URL/assets/gvec.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "vMETIS",
+    "name": "Vector METIS",
+    "address": "0x824CCDb1f156188436dFC059320608133c057aB3",
+    "logoURI": "BASE_URL/assets/vmetis.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "BARSIK",
+    "name": "BARSIK Token",
+    "address": "0x0CF2F4Cb2FAAD0FE35eFF943452339c5699D1e5c",
+    "logoURI": "BASE_URL/assets/barsik.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "alUSD",
+    "name": "Alchemix USD",
+    "address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
+    "logoURI": "BASE_URL/assets/alusd.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "alETH",
+    "name": "Alchemix ETH",
+    "address": "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
+    "logoURI": "BASE_URL/assets/aleth.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "WAGMI",
+    "name": "Wagmi Token",
+    "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+    "logoURI": "BASE_URL/assets/wagmi.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ENKI",
+    "name": "ENKI Protocol",
+    "address": "0x096A84536ab84E68ee210561FFD3A038E79736F1",
+    "logoURI": "BASE_URL/assets/enki.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "sFRAX",
+    "name": "Staked FRAX",
+    "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
+    "logoURI": "BASE_URL/assets/sfrax.svg",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "sfrxETH",
+    "name": "Staked Frax Ether",
+    "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
+    "logoURI": "BASE_URL/assets/sfrxeth.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "FXS",
+    "name": "Frax Share",
+    "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
+    "logoURI": "BASE_URL/assets/fxs.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "MT1",
+    "name": "MockToken1",
+    "address": "0x9641E6C6780591c07185d36066cD13A846Ac2D9f",
+    "logoURI": "BASE_URL/assets/torch.svg",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "MT2",
+    "name": "MockToken2",
+    "address": "0x5F1E2fb208C21E5Ff34C95d2Aa31855787573b34",
+    "logoURI": "BASE_URL/assets/torch.svg",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "TMETIS",
+    "name": "Test-Metis",
+    "address": "0x865b2784ca270Bb357828d5181149d30C0AC9b74",
+    "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "VDAO",
+    "name": "VestaDAO",
+    "address": "0x38A7362Dab9b85Ba605Ff26e2BD82b328BDe99f1",
+    "logoURI": "BASE_URL/assets/vdao.png",
+    "decimals": 18,
+    "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "eMetis",
+    "name": "ENKI Metis",
+    "address": "0x97a2de3A09F4A4229369ee82c7F76be1a5564661",
+    "logoURI": "BASE_URL/assets/eMetis.png",
+    "decimals": 18,
+    "quote": "native"
+  }
+]

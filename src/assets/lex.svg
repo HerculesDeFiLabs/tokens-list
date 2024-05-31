@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1360.63 1360.63"
+   version="1.1"
+   sodipodi:docname="LEXER_logo.svg"
+   width="1360.63"
+   height="1360.63"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.42009244"
+     inkscape:cx="-194.00492"
+     inkscape:cy="628.43311"
+     inkscape:window-width="2556"
+     inkscape:window-height="1417"
+     inkscape:window-x="0"
+     inkscape:window-y="1440"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs20">
+    <style
+       id="style18">.cls-1{fill:#2b396b;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <rect
+     class="cls-1"
+     x="0"
+     y="0"
+     width="1360.63"
+     height="1360.63"
+     rx="680.31"
+     id="rect22" />
+  <path
+     class="cls-2"
+     d="m 281.17003,272.65 199.9,411.55 -199.9,403.71 h 99.3 l 203.81,-403.68 -203.81,-411.58 z m 699,0 -203.83,411.58 203.82,403.71 H 1079.45 L 879.56003,684.23 1079.45,272.65 Z"
+     id="path34" />
+</svg>
