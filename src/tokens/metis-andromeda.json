@@ -353,5 +353,15 @@
     "logoURI": "BASE_URL/assets/eMetis.png",
     "decimals": 18,
     "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "MUTTIS",
+    "name": "MUTTIS",
+    "address": "0xa0E3E174e41A74ffFCCED8edc56c3a495abF3352",
+    "logoURI": "BASE_URL/assets/muttis-logo-1.png",
+    "decimals": 0,
+    "isWNative": false,
+    "quote": "native"
   }
 ]
