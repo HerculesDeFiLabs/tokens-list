@@ -363,5 +363,15 @@
     "decimals": 18,
     "isWNative": false,
     "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "CACA",
+    "name": "Caca",
+    "address": "0xfBae1EAb52af0Ea3d35cB12F1221cE32D377D08E",
+    "logoURI": "BASE_URL/assets/caca-logo.png",
+    "decimals": 18,
+    "isWNative": false,
+    "quote": "native"
   }
 ]
