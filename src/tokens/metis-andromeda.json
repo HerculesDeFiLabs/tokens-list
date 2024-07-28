@@ -373,8 +373,8 @@
     "decimals": 18,
     "isWNative": false,
     "quote": "native"
-  }
-  {,
+  },
+  {
   "chainId": 1088,
   "symbol": "AFRO",
   "name": "AFROdite",
