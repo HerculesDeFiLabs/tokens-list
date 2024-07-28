@@ -374,4 +374,14 @@
     "isWNative": false,
     "quote": "native"
   }
+  {,
+  "chainId": 1088,
+  "symbol": "AFRO",
+  "name": "AFROdite",
+  "address": "0xC8757E7629a165242C3EF3BCccC82C9D4849bfDb",
+  "logoURI": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=641,h=664,fit=crop/dJo4e9rr0GIn2M8g/middlefinger-mnl9nRWaLlc7GN2R.webp",
+  "decimals": 18,
+  "isWNative": false,
+  "quote": "native"
+  }
 ]
