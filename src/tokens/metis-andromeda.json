@@ -196,7 +196,17 @@
     "address": "0x4aAC94985cD83be30164DfE7e9AF7C054D7d2121",
     "logoURI": "BASE_URL/assets/hummus.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "HUM is the reward token of the Hummus Exchange, which is is a next-gen single-side AMM (decentralized exchange) on the Metis blockchain for stable cryptocurrencies (USDT, USDC, DAI). Implemented as smart contracts, it prioritizes censorship resistance, security, self-custody, and capital efficiency. Hummus offers single-token provision, eliminating impermanent loss for liquidity providers, and ultra-low slippage for traders, ensuring an efficient and secure trading experience.",
+    "tags": ["Stableswap", "Dex", "Yield Farming"],
+    "twitter": "https://twitter.com/hummusdefi",
+    "discord": "https://discord.gg/KZXNswFeZk",
+    "docs": "https://hummus-exchange.gitbook.io/hummus-exchange/",
+    "blog": "https://herculesdex.medium.com/",
+    "github": "https://github.com/Hummus-Defi",
+    "telegram": "https://t.me/hummusdefi",
+    "defillama": "https://defillama.com/protocol/hummus-exchange",
+    "website": "https://app.hummus.exchange"
   },
   {
     "chainId": 1088,
@@ -259,7 +269,17 @@
     "address": "0x0E17934B9735D479B2388347fAeF0F4e58b9cc06",
     "logoURI": "BASE_URL/assets/aleth.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "alETH represent users' future yield from deposited yield-bearing collateral at Alchemix Finance, functioning as tokenized loans for ETH. alAssets represent future yield, they are typically expected to be valued by the market at a discount from 1:1 with their associated underlying asset. Thus, experienced DeFi users may wish to purchase alAssets directly (instead of taking a loan) to earn yield, speculate on the price of the alAsset, or profit by converting it back to its underlying asset via the Transmuter.",
+    "tags": [],
+    "twitter": "https://twitter.com/AlchemixFi",
+    "discord": "https://discord.com/invite/alchemix",
+    "docs": "https://alchemix-finance.gitbook.io/user-docs",
+    "blog": "https://alchemixfi.medium.com/",
+    "github": "https://github.com/orgs/alchemix-finance/",
+    "telegram": "",
+    "defillama": "https://defillama.com/protocol/alchemix",
+    "website": "https://alchemix.fi/"
   },
   {
     "chainId": 1088,
@@ -363,7 +383,17 @@
     "logoURI": "BASE_URL/assets/caca-logo.png",
     "decimals": 18,
     "isWNative": false,
-    "quote": "native"
+    "quote": "native",
+    "description": "The #jechiedanslaseine movement highlights the foolishness and hypocrisy of French politicians, with the Seine River symbolizing this outrage. La caca, the flag from the meme world, represents resilience and change.Legends say $CACA from the Seine, others from the Élysée Palace or the Louvre. We believe it comes from the people. Like everyone, La caca starts pure but must navigate a dirty world. It offers humorous yet steadfast strength, challenging hypocrisy without violence. La caca, like toilet paper, is something everyone needs and loves.C'est la caca!",
+    "tags": ["meme"],
+    "twitter": "https://twitter.com/Lacacacash",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "",
+    "defillama": "",
+    "website": "https://caca.cash/"
   },
   {
   "chainId": 1088,
@@ -373,6 +403,16 @@
   "logoURI": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=641,h=664,fit=crop/dJo4e9rr0GIn2M8g/middlefinger-mnl9nRWaLlc7GN2R.webp",
   "decimals": 18,
   "isWNative": false,
-  "quote": "native"
+  "quote": "native",
+  "description": "Say hello to the baddest bitch of the Metis Ecosystem -- AFROdite! Not your average deity, AFROdite is a fierce, fabulous, and sassy black queen, with an $AFRO that shines brighter than your phone screen at 3am. What do we bring to Metis? Attitude, cool factor, and the inclusion of our black and brown kings and queens that they are lacking in Web3! Join the community today if you think you can handle the queen herself; AFROdite.",
+  "tags": ["meme"],
+  "twitter": "",
+  "discord": "",
+  "docs": "",
+  "blog": "",
+  "github": "",
+  "telegram": "",
+  "defillama": "",
+  "website": "https://afrodite.fun/"
   }
 ]
