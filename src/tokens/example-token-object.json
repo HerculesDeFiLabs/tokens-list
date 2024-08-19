@@ -6,5 +6,15 @@
   "logoURI": "BASE_URL/assets/<your token logo image name>.(svg|png)",
   "decimals": 0,
   "isWNative": false,
-  "quote": "native"
+  "quote": "native",
+  "description": "Your token description",
+  "tags": ["tag1", "tag2"],
+  "twitter": "Your token twitter URL",
+  "discord": "Your token discord URL",
+  "docs": "Your token docs URL",
+  "blog": "Your token blogs URL",
+  "github": "Your token github URL",
+  "telegram": "Your token telegram URL",
+  "defillama": "Your token defillama URL",
+  "website": "Your token website URL"
 }
