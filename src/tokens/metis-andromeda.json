@@ -7,7 +7,17 @@
     "logoURI": "BASE_URL/assets/usdc.svg",
     "decimals": 6,
     "common": true,
-    "quote": "native"
+    "quote": "native",
+    "description": "m.USDC is a wrapped version of USDC, a stablecoin fully backed by US dollar reserves, maintaining a 1:1 value with the dollar. Redeemable through the issuing company, it is compatible with Circle’s Cross-Chain Transfer Protocol. As a digital dollar, USDC is versatile: facilitating payments, enabling trades, providing a stable value store, and granting easier dollar access in emerging markets. It's commonly used in staking, lending protocols, and by liquidity providers to manage market volatility.",
+    "tags": ["USD Stablecoin", "Circle", "Fiat-Backed"],
+    "twitter": "https://twitter.com/circle",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "",
+    "defillama": "",
+    "website": "https://www.circle.com/en/usdc"
   },
   {
     "chainId": 1088,
@@ -17,7 +27,17 @@
     "logoURI": "BASE_URL/assets/usdt.svg",
     "decimals": 6,
     "common": true,
-    "quote": "native"
+    "quote": "native",
+    "description": "m.USDT is a wrapped version of USDT, a stablecoin designed to mirror the value of the U.S. dollar. As a stablecoin, USDT provides stability in the volatile crypto market, acting as a digital dollar substitute. Issued by Tether Limited, USDT is claimed to be '100% backed by USD,' making it popular on exchanges for trading and liquidity purposes. It allows users to move fiat in and out of exchanges quickly and cheaply, bypassing traditional banking issues. USDT can be used to buy cryptocurrencies like Bitcoin and is compatible with Omni Layer-enabled wallets.",
+    "tags": ["USD Stablecoin", "FTX Holding", "Fiat-Backed"],
+    "twitter": "https://twitter.com/Tether_to",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "",
+    "defillama": "",
+    "website": "https://tether.to/"
   },
   {
     "chainId": 1088,
@@ -28,7 +48,17 @@
     "isWNative": false,
     "decimals": 18,
     "common": true,
-    "quote": "native"
+    "quote": "native",
+    "description": "WETH is a wrapped version of ETH, the tokenized form of ETH that conforms to the ERC-20 standard, allowing it to be used seamlessly across Ethereum dApps and other networks. WETH enhances interoperability and utility, enabling staking, yield farming, lending, and liquidity provision. Unlike ETH, which isn’t ERC-20 compliant, WETH can be used on networks like Binance, Polygon, Solana, and Cardano. WETH maintains a 1:1 ratio with ETH. Wrapping ETH involves sending it to a custodian, which then issues WETH in return. Future updates aim to make ETH itself ERC-20 compliant.",
+    "tags": [],
+    "twitter": "",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "",
+    "defillama": "",
+    "website": "https://weth.io/"
   },
   {
     "chainId": 1088,
@@ -38,7 +68,17 @@
     "logoURI": "BASE_URL/assets/torch.svg",
     "decimals": 18,
     "common": true,
-    "quote": "native"
+    "quote": "native",
+    "description": "TORCH serves as the native utility token of the HerculesDEX. Users can acquire it as a yield reward by participating in incentivized staked positions NFTs (spNFTs). This token is intentionally designed to be a regular liquid token, with a supply cap spanning three years. Moreover, TORCH acts as the platform's symbolic value metric.Hercules is a non-custodial automated market maker (AMM) protocol designed for protocol-owned liquidity, supporting the next generation of builders seeking sustainable liquidity.",
+    "tags": ["Dex", "Yield Farming", "Farming"],
+    "twitter": "https://twitter.com/TheHerculesDEX",
+    "discord": "https://discord.gg/J3MNwKKaqt",
+    "docs": "https://docs.hercules.exchange/hercules/",
+    "blog": "https://herculesdex.medium.com/",
+    "github": "",
+    "telegram": "https://telegram.me/herculesdex",
+    "defillama": "https://defillama.com/protocol/hercules",
+    "website": "https://www.hercules.exchange/"
   },
   {
     "chainId": 1088,
@@ -66,7 +106,17 @@
     "isWNative": true,
     "logoURI": "BASE_URL/assets/metis.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "WWMETIS is a wrapped version of METIS, the tokenized/packaged form of METIS that is used to interact with dApps acrros the Metis network. WMETIS follows the ERC-20 token standards, enabling it to achieve interoperability with other ERC-20 tokens. WMETIS maintains a 1:1 ratio with METIS.",
+    "tags": ["Governance", "Sequencer", "DeFi"],
+    "twitter": "https://twitter.com/MetisL2",
+    "discord": "https://discord.com/invite/metis",
+    "docs": "https://docs.metis.io/dev",
+    "blog": "https://metisl2.medium.com/",
+    "github": "https://github.com/MetisProtocol",
+    "telegram": "https://t.me/MetisL2",
+    "defillama": "https://defillama.com/chain/Metis",
+    "website": "https://www.metis.io/"
   },
   {
     "chainId": 1088,
@@ -75,7 +125,17 @@
     "address": "0x2583A2538272f31e9A15dD12A432B8C96Ab4821d",
     "logoURI": "BASE_URL/assets/artMETIS.svg",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "artMETIS is a yield-bearing liquid wrapper for staked METIS at Athena Finance, which is a liquid staking protocol designed exclusively for Metis Decentralised Sequencer Pools. Users can stake their METIS token on Artemis Finance and receive the liquid token artMETIS.",
+    "tags": ["LST", "Sequencer", "Governance"],
+    "twitter": "https://twitter.com/Artemisfinance",
+    "discord": "",
+    "docs": "https://docs.artemisfinance.io/",
+    "blog": "https://medium.com/artemisfinance",
+    "github": "",
+    "telegram": "https://t.me/OfficialArtemisFinance",
+    "defillama": "https://defillama.com/protocol/artemis-finance#information",
+    "website": "https://artemisfinance.io/home"
   },
   {
     "chainId": 1088,
@@ -84,7 +144,17 @@
     "address": "0x5C7c4E4b949c97EC82Ff93120928d911Bc4E0922",
     "logoURI": "BASE_URL/assets/pumpkin.svg",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "PUMP tokens are the representation of revenue shares on the Pumpkin ecosystem, in which holders earn profits by staking and providing liquidity to the system, and are entitled to vote on governance decisions within the protocol.",
+    "tags": ["CDP", "SSLP", "LP"],
+    "twitter": "",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "https://pumpkin-protocol.gitbook.io/welcome-to-pumpkin-protocol",
+    "telegram": "https://t.me/pumpkin_fi",
+    "defillama": "",
+    "website": "https://pumpkinfinance.xyz/"
   },
   {
     "chainId": 1088,
@@ -103,7 +173,17 @@
     "address": "0xdf020cBd1897133978C7FcDF04B07E69d8934Efc",
     "logoURI": "BASE_URL/assets/zke.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "ZKE is the governance and reward token of zkEra Finance, which is a decentralized spot and perpetual trading platform offering minimal swap charges and trades with zero price impact.",
+    "tags": ["Perpetual Trading", "DeFi", "Real Yield"],
+    "twitter": "https://twitter.com/zkerafi",
+    "discord": "https://discord.com/invite/Bmtc466Rha",
+    "docs": "https://docs.zkera.fi/",
+    "blog": "https://medium.com/@zkera.fi",
+    "github": "",
+    "telegram": "https://t.me/zkerafinance",
+    "defillama": "https://defillama.com/protocol/zkera-finance#information",
+    "website": "https://zkera.fi/"
   },
   {
     "chainId": 1088,
@@ -112,7 +192,17 @@
     "address": "0x69fdb77064ec5c84FA2F21072973eB28441F43F3",
     "logoURI": "BASE_URL/assets/tethys.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "TETHYS is the governance and reward token of Tethys Finance, a Perpetual DEX and yield leverage tool exclusively built for Metis Andromeda network.",
+    "tags": ["Perp Dex", "Trading", "DeFi"],
+    "twitter": "https://twitter.com/tethysfinance",
+    "discord": "https://discord.com/invite/bmz6AnJW5p",
+    "docs": "https://docs.tethys.finance/",
+    "blog": "https://medium.com/@tethysfinance",
+    "github": "https://github.com/TethysFinance",
+    "telegram": "https://t.me/tethysswap",
+    "defillama": "https://defillama.com/protocol/tethys-finance#information",
+    "website": "https://tethys.finance/"
   },
   {
     "chainId": 1088,
@@ -131,7 +221,17 @@
     "address": "0xb0cf600A62C94451b844B5161A57F7ceC4Cef9ae",
     "logoURI": "BASE_URL/assets/cerus.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "CERUS is the reward token at Cerus Finance, which provides omni-chain and liquid staking NFT services. The Cerus platform allows users to earn staking rewards across a basket of tokens without locking assets or maintaining staking infrastructure by using multiple automated underlying yield strategies and auto-compounding.",
+    "tags": ["USD Stablecoin", "Circle", "Fiat-Backed"],
+    "twitter": "https://twitter.com/cerusvaults",
+    "discord": "https://discord.gg/dfBzxUNV",
+    "docs": "https://whitepaper.cerus.finance/",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/CERUSNODES",
+    "defillama": "",
+    "website": "https://cerus.finance/"
   },
   {
     "chainId": 1088,
@@ -140,7 +240,17 @@
     "address": "0x17C09cfC96C865CF546d73365Cedb6dC66986963",
     "logoURI": "BASE_URL/assets/jewel.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "",
+    "tags": ["Dex", "GameFi", "Liquidity Pools"],
+    "twitter": "https://x.com/DefiKingdoms",
+    "discord": "https://discord.com/invite/defikingdoms",
+    "docs": "https://docs.defikingdoms.com/",
+    "blog": "https://defikingdoms.com/news",
+    "github": "https://docs.defikingdoms.com/",
+    "telegram": "https://t.me/defikingdoms",
+    "defillama": "https://defillama.com/protocol/defi-kingdoms",
+    "website": "https://defikingdoms.com/"
   },
   {
     "chainId": 1088,
@@ -149,7 +259,17 @@
     "address": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
     "logoURI": "BASE_URL/assets/arafi.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "ARA is the reward token of AraFi, which is a sophisticated omnichain governance aggregator designed to optimize the potential returns and governance capabilities of DeFi stakeholders, promoting financial security, stability and scalability. The platform offers the opportunity to combine governance authority and maximize rewards through the liquid staking of locked/vote escrow tokens from various chains and protocols.",
+    "tags": ["Omnichain", "Governance", "Aggregator"],
+    "twitter": "",
+    "discord": "https://discord.gg/6FJAg4MDcP",
+    "docs": "https://docs.arafi.app/protocol-overview/arafi-the-omnichain-meta-protocol",
+    "blog": "https://ara-fi.medium.com/",
+    "github": "",
+    "telegram": "",
+    "defillama": "",
+    "website": "https://beta.arafi.app/"
   },
   {
     "chainId": 1088,
@@ -158,7 +278,17 @@
     "address": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
     "logoURI": "BASE_URL/assets/hera.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "HERA is the utility and governance token of Hera Finance, an advanced yield and liquidity management with multichain functionality. Users can stake HERA to earn rewards funded by protocol revenue. The token also offers benefits from HERA’s buy-back strategy, which enhances liquidity and rewards stakers. Additionally, HERA holders will participate in platform governance through the upcoming Hera DAO, influencing key decisions and developments.",
+    "tags": ["Dex", "Aggregator", "Multi-chain"],
+    "twitter": "https://x.com/HeraAggregator",
+    "discord": "https://discord.com/invite/JDaxGDU9Rx",
+    "docs": "https://docs.hera.finance/",
+    "blog": "",
+    "github": "https://github.com/heraaggregator",
+    "telegram": "https://t.me/heraaggregator",
+    "defillama": "https://defillama.com/protocol/hera-finance",
+    "website": "https://hera.finance/"
   },
   {
     "chainId": 1088,
@@ -215,7 +345,17 @@
     "address": "0x186573b175adf5801cf95fb06b232ccab123c6f4",
     "logoURI": "BASE_URL/assets/monkex.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "MONKEX is the token of the Monkex coffee club, the first DAC (Decentralized Autonomous Community) on the Metis Ecosystem. Monkex features a deflationary mechanism that is funded by a trade tax constantly burning the supply.",
+    "tags": ["meme"],
+    "twitter": "https://x.com/MonkexNFT/",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "https://monkex.gitbook.io/docs",
+    "telegram": "https://t.me/MonkexNFT/",
+    "defillama": "",
+    "website": "https://monkex.net/"
   },
   {
     "chainId": 1088,
@@ -224,7 +364,17 @@
     "address": "0xA4eE142e34d0676Edc2b760DD0016003D99a4ceC",
     "logoURI": "BASE_URL/assets/ath.svg",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "ATH is the reward token of Athena Finance, a protocol that synergistically integrates with the Hummus Exchange on METIS. Athena enables users to generate boosted yields on their Hummus deposits, even if they don’t own any HUM and veHUM.",
+    "tags": ["USD Stablecoin", "Circle", "Fiat-Backed"],
+    "twitter": "https://twitter.com/Athena_DeFi_",
+    "discord": "https://discord.com/invite/nf7BxpbG",
+    "docs": "https://docs.athenafinance.io/",
+    "blog": "https://docs.athenafinance.io/",
+    "github": "",
+    "telegram": "https://t.me/Athena_Finance",
+    "defillama": "https://defillama.com/protocol/athena-finance#information",
+    "website": "https://athenafinance.io/"
   },
   {
     "chainId": 1088,
@@ -233,7 +383,17 @@
     "address": "0x1Af9735E9a3658dF9fa51c4D5AEAc89d162C2bc8",
     "logoURI": "BASE_URL/assets/gvec.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "gVEC is the governance and reward token of the Vector Reserve protocol. Warning: The Vector Reserve project has rebranded to Kernel Protocol and it is not active on Metis network anymore.",
+    "tags": ["LST", "LRT", "DAO"],
+    "twitter": "https://x.com/Vectorreserve",
+    "discord": "",
+    "docs": "https://vector-reserve.gitbook.io/vector-reserve",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/vectorreserve",
+    "defillama": "",
+    "website": "https://www.vectorreserve.com/"
   },
   {
     "chainId": 1088,
@@ -242,7 +402,17 @@
     "address": "0x824CCDb1f156188436dFC059320608133c057aB3",
     "logoURI": "BASE_URL/assets/vmetis.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "vMETIS is the receipt token after depositing WMETIS or approved LSTs/LRTs on Vector Reserve protocol.Warning 1: Refrain from swapping vMETIS, as price impact is too high!Please, redeem vMETIS to WMETIS (1:1) on the Vector's page.Warning 2: Hercules will stop farming emissions for pool WMETIS-vMETIS on September 11.Warning 3: The Vector Reserve project has rebranded to Kernel Protocol and it is not active on Metis network anymore.",
+    "tags": ["LST", "LRT", "Sequencer"],
+    "twitter": "",
+    "discord": "",
+    "docs": "https://vector-reserve.gitbook.io/vector-reserve",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/vectorreserve",
+    "defillama": "",
+    "website": "https://www.vectorreserve.com/dapp/vmetis"
   },
   {
     "chainId": 1088,
@@ -251,7 +421,17 @@
     "address": "0x0CF2F4Cb2FAAD0FE35eFF943452339c5699D1e5c",
     "logoURI": "BASE_URL/assets/barsik.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "Barsik is Vitalik's mom's cat! His mom is also a founder of $METIS which makes $BARSIK the mascot/cat of the METIS BLOCKCHAIN!",
+    "tags": ["meme"],
+    "twitter": "https://x.com/Barsik_MetisCat",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/BARSIK_Portal",
+    "defillama": "",
+    "website": "https://www.barsikmetiscat.com/"
   },
   {
     "chainId": 1088,
@@ -260,7 +440,17 @@
     "address": "0x303241e2B3b4aeD0bb0F8623e7442368FED8Faf3",
     "logoURI": "BASE_URL/assets/alusd.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "alUSD represent users' future yield from deposited yield-bearing collateral at Alchemix Finance, functioning as tokenized loans for various stablecoins. alAssets represent future yield, they are typically expected to be valued by the market at a discount from 1:1 with their associated underlying asset. Thus, experienced DeFi users may wish to purchase alAssets directly (instead of taking a loan) to earn yield, speculate on the price of the alAsset, or profit by converting it back to its underlying asset via the Transmuter.",
+    "tags": ["USD Stablecoin", "Circle", "Fiat-Backed"],
+    "twitter": "https://twitter.com/AlchemixFi",
+    "discord": "https://discord.com/invite/alchemix",
+    "docs": "https://alchemix-finance.gitbook.io/user-docs",
+    "blog": "https://alchemixfi.medium.com/",
+    "github": "https://github.com/orgs/alchemix-finance/",
+    "telegram": "",
+    "defillama": "https://defillama.com/protocol/alchemix",
+    "website": "https://alchemix.fi/"
   },
   {
     "chainId": 1088,
@@ -288,7 +478,17 @@
     "address": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
     "logoURI": "BASE_URL/assets/wagmi.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "WAGMI is the governance and reward token of the WAGMI protocol, which is a decentralized exchange with limited TVL, active liquidity management, GMI mechanics, and leverage.",
+    "tags": ["Dex", "Real Yield", "Leverage"],
+    "twitter": "https://twitter.com/PopsicleFinance",
+    "discord": "https://discord.com/invite/yegjFrMm6H",
+    "docs": "https://docs.wagmi.com/",
+    "blog": "https://popsiclefinance.medium.com/",
+    "github": "",
+    "telegram": "https://t.me/realwagmi",
+    "defillama": "https://defillama.com/protocol/wagmi",
+    "website": "https://app.wagmi.com/"
   },
   {
     "chainId": 1088,
@@ -297,7 +497,17 @@
     "address": "0x096A84536ab84E68ee210561FFD3A038E79736F1",
     "logoURI": "BASE_URL/assets/enki.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "ENKI is the governance and reward token of the Enki protocol, the leading liquid staking solution built on top of Metis decentralized sequencer, providing a simplified approach to get rewards from sequencer node. By staking with ENKI your Metis tokens remain liquid and can be used across a range of DeFi applications on Metis, maximize your returns",
+    "tags": ["USD Stablecoin", "Circle", "Fiat-Backed"],
+    "twitter": "https://twitter.com/ENKIProtocol",
+    "discord": "",
+    "docs": "https://docs.enkixyz.com/",
+    "blog": "https://medium.com/@ENKIProtocol",
+    "github": "https://github.com/ENKIXYZ",
+    "telegram": "https://telegram.me/enkixyz",
+    "defillama": "https://defillama.com/protocol/enki-protocol#information",
+    "website": "https://enkixyz.com/"
   },
   {
     "chainId": 1088,
@@ -306,7 +516,17 @@
     "address": "0xe4796cCB6bB5DE2290C417Ac337F2b66CA2E770E",
     "logoURI": "BASE_URL/assets/sfrax.svg",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "Staked FRAX (sFRAX) is an ERC4626 staking vault that distributes part of the Frax Protocol yield weekly to stakers denominated in FRAX stablecoins. The sFRAX token represents pro rata deposits within the vault and is always withdrawable for FRAX stablecoins at the pro rata rate at all times.",
+    "tags": ["Stablecoin", "Yield", "RWA"],
+    "twitter": "https://x.com/fraxfinance",
+    "discord": "",
+    "docs": "https://docs.frax.finance/",
+    "blog": "https://iq.wiki/wiki/frax-finance/",
+    "github": "https://github.com/FraxFinance/frax-solidity",
+    "telegram": "https://t.me/fraxfinance",
+    "defillama": "https://defillama.com/protocol/frax",
+    "website": "https://frax.finance/"
   },
   {
     "chainId": 1088,
@@ -315,7 +535,17 @@
     "address": "0x1f55a02A049033E3419a8E2975cF3F572F4e6E9A",
     "logoURI": "BASE_URL/assets/sfrxeth.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "sfrxETH is a ERC-4626 vault designed to accrue the staking yield of the Frax ETH validators. At any time, frxETH can be exchanged for sfrxETH by depositing it into the sfrxETH vault, which allows users to earn staking yield on their frxETH. Over time, as validators accrue staking yield, an equivalent amount of frxETH is minted and added to the vault, allowing users to redeem their sfrxETH for a greater amount of frxETH than they deposited. ",
+    "tags": ["LRT", "LST", "DeFi"],
+    "twitter": "https://x.com/fraxfinance",
+    "discord": "",
+    "docs": "https://docs.frax.finance/",
+    "blog": "https://iq.wiki/wiki/frax-finance/",
+    "github": "https://github.com/FraxFinance/frax-solidity",
+    "telegram": "https://t.me/fraxfinance",
+    "defillama": "https://defillama.com/protocol/frax-ether",
+    "website": "https://frax.finance/"
   },
   {
     "chainId": 1088,
@@ -324,7 +554,17 @@
     "address": "0x23432452B720C80553458496D4D9d7C5003280d0",
     "logoURI": "BASE_URL/assets/fxs.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "Frax Share (FXS) is the governance token of the entire Frax ecosystem of smart contracts which accrues fees, revenue, and excess collateral value. FPIS is the governance token of FPI only and splits its value capture with FXS holders.",
+    "tags": ["Algo-Stable", "Governance", "Yield Farming"],
+    "twitter": "https://x.com/fraxfinance",
+    "discord": "",
+    "docs": "https://docs.frax.finance/",
+    "blog": "https://iq.wiki/wiki/frax-finance/",
+    "github": "https://github.com/FraxFinance/frax-solidity",
+    "telegram": "https://t.me/fraxfinance",
+    "defillama": "https://defillama.com/protocol/frax",
+    "website": "https://frax.finance/"
   },
   {
     "chainId": 1088,
@@ -363,7 +603,17 @@
     "address": "0x97a2de3A09F4A4229369ee82c7F76be1a5564661",
     "logoURI": "BASE_URL/assets/eMetis.png",
     "decimals": 18,
-    "quote": "native"
+    "quote": "native",
+    "description": "eMetis (ENKI Metis) is the liquid version of the locked METIS, loosely pegged to Metis at the ENKI protocol. It leverages Metis Sequencer Node staking and enhances the composability of the Metis ecosystem.",
+    "tags": ["LST", "Sequencer", "Governance"],
+    "twitter": "https://twitter.com/ENKIProtocol",
+    "discord": "",
+    "docs": "https://docs.enkixyz.com/",
+    "blog": "https://medium.com/@ENKIProtocol",
+    "github": "https://github.com/ENKIXYZ",
+    "telegram": "https://telegram.me/enkixyz",
+    "defillama": "https://defillama.com/protocol/enki-protocol#information",
+    "website": "https://enkixyz.com/"
   },
   {
     "chainId": 1088,
@@ -373,7 +623,17 @@
     "logoURI": "BASE_URL/assets/muttis-logo-1.png",
     "decimals": 18,
     "isWNative": false,
-    "quote": "native"
+    "quote": "native",
+    "description": "Muttis is the lovable, scrappy dog ambassador of the Metis layer-2 network. Muttis embodies the values that make Metis so special: curiosity, community, and a bold, positive spirit.",
+    "tags": ["meme"],
+    "twitter": "https://x.com/Muttis_MetisDog",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "",
+    "telegram": "https://t.me/muttis_metis",
+    "defillama": "",
+    "website": "http://muttis.io/"
   },
   {
     "chainId": 1088,
