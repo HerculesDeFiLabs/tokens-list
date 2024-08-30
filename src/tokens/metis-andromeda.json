@@ -58,7 +58,7 @@
     "github": "",
     "telegram": "",
     "defillama": "",
-    "website": "https://weth.io/"
+    "website": "https://www.coingecko.com/en/coins/weth"
   },
   {
     "chainId": 1088,
@@ -332,7 +332,7 @@
     "twitter": "https://twitter.com/hummusdefi",
     "discord": "https://discord.gg/KZXNswFeZk",
     "docs": "https://hummus-exchange.gitbook.io/hummus-exchange/",
-    "blog": "https://herculesdex.medium.com/",
+    "blog": "https://hummusexchange.medium.com/",
     "github": "https://github.com/Hummus-Defi",
     "telegram": "https://t.me/hummusdefi",
     "defillama": "https://defillama.com/protocol/hummus-exchange",
