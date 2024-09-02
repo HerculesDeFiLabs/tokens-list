@@ -292,15 +292,6 @@
   },
   {
     "chainId": 1088,
-    "symbol": "THEA",
-    "name": "THEA Token",
-    "address": "0xDD8F925dDf6fBE4EE81582D4E32F00EDdEb64c2F",
-    "logoURI": "BASE_URL/assets/althea.png",
-    "decimals": 18,
-    "quote": "native"
-  },
-  {
-    "chainId": 1088,
     "symbol": "rTHEA",
     "name": "rTHEA Token",
     "address": "0x780D578f7C7d72233874155Ee63Aa5a595156237",
@@ -654,25 +645,5 @@
     "telegram": "",
     "defillama": "",
     "website": "https://caca.cash/"
-  },
-  {
-  "chainId": 1088,
-  "symbol": "AFRO",
-  "name": "AFROdite",
-  "address": "0xC8757E7629a165242C3EF3BCccC82C9D4849bfDb",
-  "logoURI": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=641,h=664,fit=crop/dJo4e9rr0GIn2M8g/middlefinger-mnl9nRWaLlc7GN2R.webp",
-  "decimals": 18,
-  "isWNative": false,
-  "quote": "native",
-  "description": "Say hello to the baddest bitch of the Metis Ecosystem -- AFROdite! Not your average deity, AFROdite is a fierce, fabulous, and sassy black queen, with an $AFRO that shines brighter than your phone screen at 3am. What do we bring to Metis? Attitude, cool factor, and the inclusion of our black and brown kings and queens that they are lacking in Web3! Join the community today if you think you can handle the queen herself; AFROdite.",
-  "tags": ["meme"],
-  "twitter": "",
-  "discord": "",
-  "docs": "",
-  "blog": "",
-  "github": "",
-  "telegram": "",
-  "defillama": "",
-  "website": "https://afrodite.fun/"
   }
 ]
