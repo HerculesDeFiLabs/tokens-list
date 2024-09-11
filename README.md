@@ -28,18 +28,17 @@ To add a new token to the Hercules DEX token list, please open a pull request to
   "logoURI": "BASE_URL/assets/<your token logo image name>.(svg|png)",
   "decimals": 0,
   "isWNative": false,
-  "quote": "native"
-  "website": "APP_URL"
-  description: "TOKEN_DESCRIPTION",
-  tags:["example"],
-  twitter: "",
-  discord: "",
-  docs: "",
-  medium: "",
-  github: "",
-  telegram: "",
-  defillama: ""
-
+  "quote": "native",
+  "description": "Your token description",
+  "tags": ["tag1", "tag2"],
+  "twitter": "Your token twitter URL",
+  "discord": "Your token discord URL",
+  "docs": "Your token docs URL",
+  "blog": "Your token blogs URL",
+  "github": "Your token github URL",
+  "telegram": "Your token telegram URL",
+  "defillama": "Your token defillama URL",
+  "website": "Your token website URL"
 }
 ```
 
