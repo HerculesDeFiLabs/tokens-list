@@ -29,12 +29,41 @@ To add a new token to the Hercules DEX token list, please open a pull request to
   "decimals": 0,
   "isWNative": false,
   "quote": "native"
+  "website": "APP_URL"
+  description: "TOKEN_DESCRIPTION",
+  tags:["example"],
+  twitter: "",
+  discord: "",
+  docs: "",
+  medium: "",
+  github: "",
+  telegram: "",
+  defillama: ""
+
 }
 ```
 
 
 
-Replace the placeholders `SYMBOL`, `Token name`, `0x0000000000000000000000000000000000000000` and `<your token logo image name>` with the appropriate information for your token.
+Replace the placeholders `SYMBOL`, `Token name`, `APP_URL`, `TOKEN_DESCRIPTION`, `["example"]` `0x0000000000000000000000000000000000000000` and `<your token logo image name>` with the appropriate information for your token.
+
+Provide the following required information for your protocol.
+
+`website (string):` link to your app
+
+`description (string):` up to 600 characters
+
+`tags (array):` up to 3 
+
+Provide the following optional links for your protocol. (if not available please leave it as empty string "" )
+
+`twitter (string)`,
+`discord (string)`,
+`docs (string)`,
+`medium (string)`,
+`github (string)`,
+`telegram (string)`,
+`defillama (string)`
 
 3. Ensure you provide the correct `chainId`, `symbol`, `name`, `address`, `decimals`, `isWNative`, and `quote` for your token.
 
