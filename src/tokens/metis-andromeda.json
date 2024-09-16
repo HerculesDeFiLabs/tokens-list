@@ -654,7 +654,7 @@
   "logoURI": "BASE_URL/assets/FROSKA.svg",
   "decimals": 18,
   "isWNative": false,
-  "quote": "native"
+  "quote": "native",
   "description": "Froka was a meme project featuring a cat character that evolved into a GambleFi project, with the tagline Paws and Spin! Where Degens win.",
   "tags": ["meme", "gamblefi"],
   "twitter": "https://x.com/metisfroska?s=20",
