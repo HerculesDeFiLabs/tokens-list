@@ -645,9 +645,8 @@
     "telegram": "",
     "defillama": "",
     "website": "https://caca.cash/"
-  }
-]
-{
+  },
+  {
   "chainId": 1088,
   "symbol": "FROSKA",
   "name": "Froska",
@@ -666,4 +665,5 @@
   "telegram": "https://t.me/metisfroska",
   "defillama": "",
   "website": "https://www.froska.io/"
-}
+  }
+]
