@@ -685,5 +685,25 @@
     "telegram": "",
     "defillama": "",
     "website": ""
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ALCX",
+    "name": "Alchemix",
+    "address": "0x303c4F39EA359155C698807168e9Dc3aA1dF2b95",
+    "logoURI": "BASE_URL/assets/alcx.png",
+    "decimals": 18,
+    "isWNative": false,
+    "quote": "native",
+    "description": "The ALCX token is an ERC-20 token that serves as both the governance and incentive token for the Alchemix platform.",
+    "tags": ["Governance", "DeFi"],
+    "twitter": "https://x.com/AlchemixFi",
+    "discord": "https://discord.com/invite/alchemix",
+    "docs": "https://alchemix-finance.gitbook.io/user-docs/",
+    "blog": "https://alchemixfi.medium.com/",
+    "github": "https://github.com/orgs/alchemix-finance/",
+    "telegram": "",
+    "defillama": "https://defillama.com/protocol/alchemix",
+    "website": "https://alchemix.fi/"
   }
 ]
