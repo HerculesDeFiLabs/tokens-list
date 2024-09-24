@@ -705,5 +705,25 @@
     "telegram": "",
     "defillama": "https://defillama.com/protocol/alchemix",
     "website": "https://alchemix.fi/"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "GAMEFI",
+    "name": "Revenant",
+    "address": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+    "logoURI": "BASE_URL/assets/gamefi.png",
+    "decimals": 18,
+    "isWNative": false,
+    "quote": "native",
+    "description": "$GAMEFI token is the native governance and utility token of Revenant, the first decentralized gaming ecosystem on the Metis network. $GAMEFI offers holders a share of equity in Revenant Games, with periodic dividends distributed as the platform grows. Beyond financial rewards, $GAMEFI grants governance rights, allowing holders to influence key decisions that shape the platform's future. Additionally, $GAMEFI powers the ecosystem by enabling in-game NFT purchases, peer-to-peer payments, participation in gaming tournaments, and earning rewards. As Revenant continues to evolve, $GAMEFI holders benefit from both governance participation and the platform’s financial growth.",
+    "tags": ["GameFi", "Governance"],
+    "twitter": "https://twitter.com/revenantgamefi",
+    "discord": "",
+    "docs": "https://docs.revenant.gg/",
+    "blog": "https://www.revenant.gg/blog/",
+    "github": "",
+    "telegram": "https://t.me/revenantportal",
+    "defillama": "",
+    "website": "https://revenant.gg/"
   }
 ]
