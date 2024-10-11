@@ -731,7 +731,7 @@
   "symbol": "VESTA",
   "name": "VestaDAO",
   "address": "0x848E329d9C3FF5D3078C4670c773651155386C46",
-  "logoURI": "BASE_URL/assets/_FINAL_VESTA_LOGO_No_BG_500x500.png",
+  "logoURI": "BASE_URL/assets/VESTA.png",
   "decimals": 18,
   "isWNative": false,
   "quote": "native",
