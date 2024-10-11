@@ -725,5 +725,25 @@
     "telegram": "https://t.me/revenantportal",
     "defillama": "",
     "website": "https://revenant.gg/"
-  }
+  },
+  {
+  "chainId": 1088,
+  "symbol": "VESTA",
+  "name": "VestaDAO",
+  "address": "0x848E329d9C3FF5D3078C4670c773651155386C46",
+  "logoURI": "BASE_URL/assets/_FINAL_VESTA_LOGO_No_BG_500x500.png",
+  "decimals": 18,
+  "isWNative": false,
+  "quote": "native",
+  "description": "VestaDAO Makes Metis Easy through gamified education, ecosystem project guides, and ecouraging participation in DeFi on Metis by building user confidence.",
+  "tags": ["education", "governance"],
+  "twitter": "https://x.com/vestadao?s=21&t=piCle8Y6-GKkDVezuE5qZA",
+  "discord": "Your token discord URL",
+  "docs": "Your token docs URL",
+  "blog": "Your token blogs URL",
+  "github": "Your token github URL",
+  "telegram": "https://t.me/+cEis7ManxyJkODc0",
+  "defillama": "Your token defillama URL",
+  "website": "https://vdao.online/"
+},
 ]
