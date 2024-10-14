@@ -725,5 +725,25 @@
     "telegram": "https://t.me/revenantportal",
     "defillama": "",
     "website": "https://revenant.gg/"
+  },
+  {
+  "chainId": 1088,
+  "symbol": "VESTA",
+  "name": "VestaDAO",
+  "address": "0x848E329d9C3FF5D3078C4670c773651155386C46",
+  "logoURI": "BASE_URL/assets/VESTA.png",
+  "decimals": 18,
+  "isWNative": false,
+  "quote": "native",
+  "description": "Vesta is Making Metis Easy.",
+  "tags": ["Education", "DAO"],
+  "twitter": "https://x.com/vestadao?s=21&t=piCle8Y6-GKkDVezuE5qZA",
+  "discord": "",
+  "docs": "",
+  "blog": "",
+  "github": "",
+  "telegram": "https://t.me/+cEis7ManxyJkODc0",
+  "defillama": "",
+  "website": "https://vdao.online/"
   }
 ]
