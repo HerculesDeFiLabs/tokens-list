@@ -768,7 +768,7 @@
   },
   {
     "chainId": 1088,
-    "symbol": "Metis",
+    "symbol": "gMetis",
     "name": "gMetis",
     "address": "0xFbe0F778e3c1168bc63d7b6F880Ec0d5F9E524E6",
     "logoURI": "BASE_URL/assets/gMetis.png",
