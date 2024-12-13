@@ -765,5 +765,25 @@
     "telegram": "https://t.me/+MHI0Nu3Yy0o2MTE0",
     "defillama": "",
     "website": ""
+  },
+  {
+    "chainId": 1088,
+    "symbol": "Metis",
+    "name": "gMetis",
+    "address": "0xFbe0F778e3c1168bc63d7b6F880Ec0d5F9E524E6",
+    "logoURI": "BASE_URL/assets/gMetis.png",
+    "decimals": 18,
+    "isWNative": false,
+    "quote": "native",
+    "description": "AI Agent - Meme Token with a Touch of Utility",
+    "tags": ["meme", "ai"],
+    "twitter": "https://x.com/gMetisl2",
+    "discord": "",
+    "docs": "https://docs.gmetis.io/",
+    "blog": "",
+    "github": "https://github.com/Gmetisl2/",
+    "telegram": "https://t.me/gmetisio",
+    "defillama": "",
+    "website": "https://gmetis.io/"
   }
 ]
