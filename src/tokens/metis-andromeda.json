@@ -344,7 +344,26 @@
     "docs": "",
     "blog": "",
     "github": "https://monkex.gitbook.io/docs",
-    "telegram": "https://t.me/MonkexNFT/",
+    "telegram": "https://t.me/Monkex_NFT/",
+    "defillama": "",
+    "website": "https://monkex.net/"
+  },
+    {
+    "chainId": 1088,
+    "symbol": "wMONKEX",
+    "name": "Wrapped Monkex Token",
+    "address": "0x8c5f5fac50a0a952b2fc084780fc04abc8201f0b",
+    "logoURI": "BASE_URL/assets/wmonkex.png",
+    "decimals": 18,
+    "quote": "native",
+    "description": "MONKEX is the token of the Monkex coffee club, the first DAC (Decentralized Autonomous Community) on the Metis Ecosystem. Monkex features a deflationary mechanism that is funded by a trade tax constantly burning the supply.",
+    "tags": ["meme"],
+    "twitter": "https://x.com/MonkexNFT/",
+    "discord": "",
+    "docs": "",
+    "blog": "",
+    "github": "https://monkex.gitbook.io/docs",
+    "telegram": "https://t.me/Monkex_NFT/",
     "defillama": "",
     "website": "https://monkex.net/"
   },
@@ -807,3 +826,4 @@
     "website": ""
   }
 ]
+
